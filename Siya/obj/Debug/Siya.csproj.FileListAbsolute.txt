@@ -1,0 +1,6 @@
+c:\users\alfie\documents\visual studio 2015\Projects\Siya\Siya\bin\Debug\Siya.exe.config
+c:\users\alfie\documents\visual studio 2015\Projects\Siya\Siya\bin\Debug\Siya.exe
+c:\users\alfie\documents\visual studio 2015\Projects\Siya\Siya\bin\Debug\Siya.pdb
+c:\users\alfie\documents\visual studio 2015\Projects\Siya\Siya\obj\Debug\Siya.csprojResolveAssemblyReference.cache
+c:\users\alfie\documents\visual studio 2015\Projects\Siya\Siya\obj\Debug\Siya.exe
+c:\users\alfie\documents\visual studio 2015\Projects\Siya\Siya\obj\Debug\Siya.pdb
